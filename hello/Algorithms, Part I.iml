@@ -10,7 +10,7 @@
       <excludePattern pattern="*.iml" />
       <excludePattern pattern="*.class" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="algs4" level="project" />
   </component>
